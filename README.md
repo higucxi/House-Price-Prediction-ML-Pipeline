@@ -19,9 +19,6 @@ It uses the classic **Kaggle House Prices dataset** and shows how to take a raw 
 
 ---
 
-
----
-
 ## ⚙️ Setup Instructions
 
 🧹 Step 1: Run the Data Pipeline
