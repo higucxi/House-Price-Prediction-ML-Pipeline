@@ -7,3 +7,7 @@ Automatic categorical encoding: uses OneHotEncoder for categorical fields instea
 Stores preprocessing logic: saves a fitted preprocessor so the same logic is used at inference time.
 
 Joblib serialization: saves processed train/test sets for model training.
+
+Integrate a Streamlit front-end for visualization
+
+Add model drift detection
